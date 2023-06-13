@@ -1,10 +1,15 @@
-# parallelSortingAlgo
+# parallelSortingAlgo in Erlang
 
 For each sorting algorithm, I created four different versions of the sort:
+
  One that runs sequentially (uses no parallelism at all).
+
  One that runs using 2 processes in parallel.
+
  One that runs using 4 processes in parallel.
+
  One that runs using 8 processes in parallel.
+
 
 So, the code eight different sorting functions: four different versions of two different sorting
 algorithms: one is insertion sort and the other is quick sort.
